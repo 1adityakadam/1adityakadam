@@ -1,7 +1,12 @@
-<!DOCTYPE html>           
+<!DOCTYPE html> 
 <h1 align="left">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&width=500&height=70&duration=5000&lines=Hi+There!+👋+I'm+Aditya++Kadam!;&center=false&vCenter=false" />
+<img src="https://c4.wallpaperflare.com/wallpaper/792/460/915/code-coding-programming-simple-background-wallpaper-preview.jpg" width="600"/>
 </h1>
+
+<h2 align="left">
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&width=500&height=70&duration=5000&lines=Hi+There!+👋+I'm+Aditya++Kadam!;&center=false&vCenter=false" />
+</h2>
+
 
 <i>A passionate student pursuing MS in Data Science<br>
 I love diving into the world of data and<br>uncovering insights through analysis and visualization.<br></i> 
@@ -42,7 +47,12 @@ I am eager to collaborate on projects related to:
 
 ## Stats 📈 :
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1adityakadam&show_icons=true&theme=dark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1adityakadam&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1adityakadam&layout=compact&theme=dark)
+![Custom Profile Views](https://img.shields.io/badge/Profile%20Views-64-blue?style=flat)
+
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1adityakadam&show_icons=true&theme=dark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1adityakadam&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1adityakadam&layout=compact&theme=dark) 
+
 
 
 
