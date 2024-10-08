@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-
-<img src="https://www.shutterstock.com/image-vector/abstract-gradient-wave-particles-big-600nw-1930623710.jpg" width="1000" />
-             
+<!DOCTYPE html>           
 <h1 align="left">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&width=500&height=70&duration=5000&lines=Hi+There!+👋+I'm+Aditya++Kadam!;&center=false&vCenter=false" />
 </h1>
