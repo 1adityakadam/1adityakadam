@@ -9,8 +9,7 @@
 
 
 <i>A passionate student pursuing MS in Data Science<br>
-I love diving into the world of data and<br>uncovering insights through analysis and visualization.<br></i> 
-
+I love diving into the world of data and uncovering insights through analysis and visualization.<br></i> 
 I am eager to collaborate on projects related to:                                                 
 
 - Data Analysis and Visualization 🔍📊
