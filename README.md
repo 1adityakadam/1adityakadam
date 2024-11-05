@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="left">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&width=500&height=70&duration=5000&lines=Hi+There!+👋+I'm+Aditya++Kadam!;&center=false&vCenter=false" />
+   Hi! I'm Aditya Kadam
 </h2>
 
 
@@ -46,27 +46,4 @@ I am eager to collaborate on projects related to:
 
 ## Stats 📈 :
 
-![Custom Profile Views](https://img.shields.io/badge/Profile%20Views-64-blue?style=flat)
-
-<br>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1adityakadam&show_icons=true&theme=dark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1adityakadam&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1adityakadam&layout=compact&theme=dark) 
-
-
-
-
-
-
-
-          
-          
-          
-          
-          
-           
-
-
-
-
-
-
