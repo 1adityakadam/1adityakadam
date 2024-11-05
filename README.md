@@ -3,8 +3,8 @@
 <img src="https://c4.wallpaperflare.com/wallpaper/792/460/915/code-coding-programming-simple-background-wallpaper-preview.jpg" width="600"/>
 </h1>
 
-<h2 align="left">
-   Hi! I'm Aditya Kadam
+<h2 align="left" style="color: blue;">
+Hi There! 👋 I'm Aditya Kadam!
 </h2>
 
 
