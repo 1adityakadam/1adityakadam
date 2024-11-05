@@ -1,6 +1,6 @@
 <!DOCTYPE html> 
 <h1 align="left">
-<img src="https://favim.com/pd/s11/orig/8/805/8053/80536/gif-vaporwave-aesthetic-Favim.com-8053604.gif" width="600"/>
+<img src="https://cdn.prod.website-files.com/61488ca0856b5b46d00073e0/61840818ce35bcd65d646a20_neural_network-li.png" width="600"/>
 </h1>
 
 <h2 align="left" style="color: blue;">
