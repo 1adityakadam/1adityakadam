@@ -8,8 +8,8 @@ Hi There! 👋 I'm Aditya Kadam!
 </h2>
 
 
-<i>A passionate student pursuing MS in Data Science. A Beginner in Data Science Field! <br>
-I love diving into the world of data and uncovering insights through analysis and visualization.<br></i> 
+A passionate student pursuing MS in Data Science. A Beginner in Data Science Field! <br>
+I love diving into the world of data and uncovering insights through analysis and visualization.<br><br>
 I am eager to collaborate on projects related to:                                                 
 
 - Data Analysis and Visualization 🔍📊
