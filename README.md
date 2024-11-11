@@ -46,4 +46,7 @@ I am eager to collaborate on projects related to:
 
 ## Stats 📈 :
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1adityakadam&show_icons=true&theme=dark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1adityakadam&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1adityakadam&layout=compact&theme=dark) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1adityakadam&show_icons=true&theme=dark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1adityakadam&theme=dark) 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/1adityakadam)](https://leetcode.com/1adityakadam) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1adityakadam&layout=compact&theme=dark) 
+
