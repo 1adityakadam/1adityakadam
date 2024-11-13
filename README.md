@@ -1,6 +1,6 @@
 <!DOCTYPE html> 
 <h1 align="left">
-<img src="https://media1.tenor.com/m/OqgU70GZx7gAAAAd/courage-the-cowardly-dog-computer.gif" width="600"/>
+<img src="https://media1.tenor.com/m/OqgU70GZx7gAAAAd/courage-the-cowardly-dog-computer.gif" width="200"/>
 </h1>
 
 <h2 align="left" style="color: blue;">
