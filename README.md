@@ -1,6 +1,6 @@
 <!DOCTYPE html> 
 <h1 align="left">
-<img src="https://cdn.prod.website-files.com/61488ca0856b5b46d00073e0/61840818ce35bcd65d646a20_neural_network-li.png" width="600"/>
+<img src="https://media1.tenor.com/m/OqgU70GZx7gAAAAd/courage-the-cowardly-dog-computer.gif" width="600"/>
 </h1>
 
 <h2 align="left" style="color: blue;">
