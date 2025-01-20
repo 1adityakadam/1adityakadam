@@ -41,9 +41,6 @@ I am eager to collaborate on projects related to:
 <br>
 
 ## Stats 📈 :
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1adityakadam&theme=dark) 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1adityakadam&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1adityakadam&layout=compact&theme=dark)
 
