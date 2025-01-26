@@ -43,7 +43,7 @@ I am eager to collaborate on projects related to:
 ## Stats 📈 :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1adityakadam&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1adityakadam&layout=compact&theme=dark)
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/1adityakadam?ext=heatmap&show_icons=true&theme=dark)
 
 
 
