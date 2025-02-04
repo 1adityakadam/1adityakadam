@@ -3,6 +3,10 @@
 Hi There! 👋 I'm Aditya Kadam!
 </h2>
 
+## Stats 📈 :
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1adityakadam&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1adityakadam&layout=compact&theme=dark) ![Leetcode Stats](https://leetcard.jacoblin.cool/1adityakadam?ext=heatmap&show_icons=true&theme=dark) 
+
 
 ## Connect @ :
 <a href="https://www.linkedin.com/in/adityaskadam" target="_blank">
@@ -29,10 +33,6 @@ Hi There! 👋 I'm Aditya Kadam!
 
 <br>
 
-## Stats 📈 :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1adityakadam&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1adityakadam&layout=compact&theme=dark)
-![Leetcode Stats](https://leetcard.jacoblin.cool/1adityakadam?ext=heatmap&show_icons=true&theme=dark)
 
 
 
