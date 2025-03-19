@@ -70,7 +70,7 @@
 
 
 <div align="center">
-        <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=ff913d&center=true&vCenter=true&width=600&height=60%&lines=Thank+you+for+visiting!;Have+a+great+day!" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=ff913d&center=true&vCenter=true&width=1000&height=60%&lines=Checkout+my+recent+project+repositories+👇" alt="Typing SVG" /></a>
     </div>
 </body>
 </html>
