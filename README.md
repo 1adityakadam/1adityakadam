@@ -13,11 +13,9 @@
 
 <div align="center">
         <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=346beb&height=70&section=footer"/>
+        <img width = 100% src='https://capsule-render.vercel.app/api?type=waving&height=100&color=ff913d&fontAlignY=31&fontColor=ffffff&textBg=false&reversal=true'>
 </div>
    
-  <div align="center">
-       <img width = 100% src='https://capsule-render.vercel.app/api?type=waving&height=100&color=ff913d&fontAlignY=31&fontColor=ffffff&textBg=false&reversal=true'>
-    </div>
 
 
 <h3 align="center">Stats 📈 :</h3>
@@ -70,12 +68,12 @@
 
 
 <div align="center">
-        <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff913d&height=70&section=footer"/>
+        <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=346beb&height=70&section=footer"/>
     </div>
 
 <br>
 <div align="center">
-        <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Calibri&size=40%&pause=1000&color=ff913d&center=true&vCenter=true&width=1000&height=50%&lines=Checkout+my+recent+project+repositories+👇" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Calibri&size=40%&pause=1000&color=346beb&center=true&vCenter=true&width=1000&height=50%&lines=Checkout+my+recent+project+repositories+👇" alt="Typing SVG" /></a>
     </div>
 </body>
 </html>
