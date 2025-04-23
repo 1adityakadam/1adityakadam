@@ -7,9 +7,12 @@
        <img width = 100% src='https://capsule-render.vercel.app/api?type=waving&height=100&color=346beb&fontAlignY=31&fontColor=ffffff&textBg=false&reversal=true'>
     </div>
   
-  <div align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=calibri&size=40%&pause=1000&color=346beb&center=true&vCenter=true&width=1000&height=50%&lines=Hello,+ +My+name+is+Aditya+👋;Welcome+to+my+profile+🧑🏻‍💻 " alt="Typing SVG" />
-    </div>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&width=1000px&duration=2000&pause=1000&background=ffffff00&center=true&vCenter=true&lines=My+name+is+Aditya+👋;Welcome+to+my+profile+🧑🏻‍💻"
+    alt="Typing SVG"
+  />
+</p>
 
 <div align="center">
         <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=346beb&height=70&section=footer"/>
