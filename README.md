@@ -9,7 +9,7 @@
   
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&width=1000px&duration=2000&pause=1000&background=ffffff00&center=true&vCenter=true&lines=My+name+is+Aditya+👋;Welcome+to+my+profile+🧑🏻‍💻"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&width=1000px&duration=2000&pause=1000&background=ffffff00&center=true&font=helvetica&vCenter=true&lines=My+name+is+Aditya+👋;Welcome+to+my+profile+🧑🏻‍💻"
     alt="Typing SVG"
   />
 </p>
@@ -21,7 +21,7 @@
    
 
 
-<h3 align="center">Stats 📈 :</h3>
+<h3 align="center" >Stats 📈 :</h3>
 
  <div align="center">
      
@@ -62,21 +62,17 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="60" height="60"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60"/>&nbsp;
-
-
-
-    
-          
 </div>
-
-
 <div align="center">
         <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=346beb&height=70&section=footer"/>
     </div>
 
 <br>
-<div align="center">
-        <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Calibri&size=40%&pause=1000&color=346beb&center=true&vCenter=true&width=1000&height=50%&lines=Checkout+my+recent+project+repositories+👇" alt="Typing SVG" /></a>
-    </div>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&width=1000px&duration=2000&pause=1000&background=ffffff00&center=true&vCenter=true&font=helvetica&lines=Checkout+my+recent+project+repositories+👇"
+    alt="Typing SVG"
+  />
+</p>
 </body>
 </html>
