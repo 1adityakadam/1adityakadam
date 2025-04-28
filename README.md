@@ -29,7 +29,6 @@
 
  <img src="https://github-readme-stats.vercel.app/api?username=1adityakadam&show_icons=true&theme=dark" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1adityakadam&theme=dark" />
-        <img src="https://leetcard.jacoblin.cool/1adityakadam?ext=heatmap&show_icons=true&theme=dark" />
      </div>
 
 
