@@ -71,5 +71,61 @@
     alt="Typing SVG"
   />
 </p>
+
+<p align="center">
+  <a href="https://github.com/1adityakadam/Content-Based-Movie-Recommender-System">
+    <img src="https://img.shields.io/badge/Content--Based%20Movie%20Recommender%20System-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/1adityakadam/Predicting-Air-quality-index-using-LSTM">
+    <img src="https://img.shields.io/badge/Predicting%20Air%20Quality%20Index%20using%20LSTM-2F855A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/1adityakadam/Tweet-Classification-using-NLP-Techniques">
+    <img src="https://img.shields.io/badge/Tweet%20Classification%20using%20NLP%20Techniques-9B2C2C?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/1adityakadam/Air-Pollution-Forecasting">
+    <img src="https://img.shields.io/badge/Air%20Pollution%20Forecasting-0A9396?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/1adityakadam/Netflix_data_analysis">
+    <img src="https://img.shields.io/badge/Netflix%20Data%20Analysis-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
+  </a>
+  <a href="https://github.com/1adityakadam/USDA_food_distribution_analysis">
+    <img src="https://img.shields.io/badge/USDA%20Food%20Distribution%20Analysis-3182CE?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/1adityakadam/Carnegie-classifications-ancestry-grid">
+    <img src="https://img.shields.io/badge/Carnegie%20Classifications%20Ancestry%20Grid-FF7F11?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/1adityakadam/Uber_data_analytics">
+    <img src="https://img.shields.io/badge/Uber%20Data%20Analytics-000000?style=for-the-badge&logo=uber&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/1adityakadam/Sports_Analytics_Cricket_Data_Insights">
+    <img src="https://img.shields.io/badge/Sports%20Analytics%20--%20Cricket%20Data%20Insights-FFCC00?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  <a href="https://github.com/1adityakadam/Footwear-Classification-with-Machine-Learning">
+    <img src="https://img.shields.io/badge/Footwear%20Classification%20with%20Machine%20Learning-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/1adityakadam/Multi-Model-Car-Acceptability-Classification">
+    <img src="https://img.shields.io/badge/Multi--Model%20Car%20Acceptability%20Classification-D97706?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/1adityakadam/Weather-History-Data-Analysis-and-Predictive-Modeling">
+    <img src="https://img.shields.io/badge/Weather%20History%20Data%20Analysis%20%26%20Predictive%20Modeling-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
 </body>
 </html>
