@@ -9,7 +9,7 @@
   
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&width=1000px&duration=3000&pause=1000&background=ffffff00&center=true&font=helvetica&vCenter=true&lines=My+name+is+Aditya+Kadam+👋;Welcome+to+my+profile+💻"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&width=1000px&duration=3000&pause=1000&background=ffffff00&center=true&font=helvetica&vCenter=true&lines=My+name+is+Aditya+Kadam+👋;Welcome+to+my+profile+💻"
     alt="Typing SVG"
   />
 </p>
@@ -65,12 +65,17 @@
     </div>
 
 <br>
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&width=1000px&duration=2000&pause=1000&background=ffffff00&center=true&vCenter=true&font=helvetica&lines=Checkout+my+recent+project+repositories+👇"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&width=1000&duration=2000&pause=1000&background=ffffff00&center=true&vCenter=true&lines=Project+Repositories+👇"
     alt="Typing SVG"
   />
 </p>
+<div align="center">
+        <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=346beb&height=70&section=footer"/>
+        <img width = 100% src='https://capsule-render.vercel.app/api?type=waving&height=100&color=ff913d&fontAlignY=31&fontColor=ffffff&textBg=false&reversal=true'>
+</div>
 
 <p align="center">
   <a href="https://github.com/1adityakadam/Content-Based-Movie-Recommender-System">
@@ -126,6 +131,9 @@
   </a>
 </p>
 
+<div align="center">
+        <img width = 100% src='https://capsule-render.vercel.app/api?type=waving&height=100&color=ff913d&fontAlignY=31&fontColor=ffffff&textBg=false&reversal=true'>
+</div>
 
 </body>
 </html>
