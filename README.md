@@ -112,6 +112,7 @@
   <a href="https://github.com/1adityakadam/Sports_Analytics_Cricket_Data_Insights">
     <img src="https://img.shields.io/badge/Sports%20Analytics%20--%20Cricket%20Data%20Insights-FFCC00?style=for-the-badge&logo=github&logoColor=black" />
   </a>
+    
   <a href="https://github.com/1adityakadam/Footwear-Classification-with-Machine-Learning">
     <img src="https://img.shields.io/badge/Footwear%20Classification%20with%20Machine%20Learning-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -121,6 +122,7 @@
   <a href="https://github.com/1adityakadam/Multi-Model-Car-Acceptability-Classification">
     <img src="https://img.shields.io/badge/Multi--Model%20Car%20Acceptability%20Classification-D97706?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+    
   <a href="https://github.com/1adityakadam/Weather-History-Data-Analysis-and-Predictive-Modeling">
     <img src="https://img.shields.io/badge/Weather%20History%20Data%20Analysis%20%26%20Predictive%20Modeling-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
   </a>
