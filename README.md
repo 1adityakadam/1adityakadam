@@ -16,7 +16,6 @@
 
 <div align="center">
         <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=346beb&height=70&section=footer"/>
-        <img width = 100% src='https://capsule-render.vercel.app/api?type=waving&height=100&color=ff913d&fontAlignY=31&fontColor=ffffff&textBg=false&reversal=true'>
 </div>
    
 
@@ -72,10 +71,6 @@
     alt="Typing SVG"
   />
 </p>
-<div align="center">
-        <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=346beb&height=70&section=footer"/>
-        <img width = 100% src='https://capsule-render.vercel.app/api?type=waving&height=100&color=ff913d&fontAlignY=31&fontColor=ffffff&textBg=false&reversal=true'>
-</div>
 
 <p align="center">
   <a href="https://github.com/1adityakadam/Content-Based-Movie-Recommender-System">
