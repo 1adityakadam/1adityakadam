@@ -95,11 +95,5 @@
   </tr>
 </table>
 
-
-
-<div align="center">
-        <img width = 100% src='https://capsule-render.vercel.app/api?type=waving&height=100&color=ff913d&fontAlignY=31&fontColor=ffffff&textBg=false&reversal=true'>
-</div>
-
 </body>
 </html>
