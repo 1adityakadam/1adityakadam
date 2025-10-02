@@ -38,35 +38,32 @@
 
 <h3 align="center">Languages and Tools :</h3>
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/95b52e57-fe84-4a62-8e97-b31ab61e3c02" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/user-attachments/assets/f9a502bd-0bc7-4285-b122-c73208e8584e" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/user-attachments/assets/aed66ce1-be05-4d2d-aa02-263ea17a6dc2" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/user-attachments/assets/95b52e57-fe84-4a62-8e97-b31ab61e3c02" width="60" height="60" alt="PowerBi" title="PowerBi"/>&nbsp;
+    <img src="https://github.com/user-attachments/assets/f9a502bd-0bc7-4285-b122-c73208e8584e" width="60" height="60" alt="Tableau" title="Tableau"/>&nbsp;
+    <img src="https://github.com/user-attachments/assets/aed66ce1-be05-4d2d-aa02-263ea17a6dc2" width="60" height="60" alt="Alteryx" title="Alteryx"/>&nbsp;
   <br><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/>&nbsp; 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60" />&nbsp; 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="60" height="60"/>&nbsp; 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="60" height="60"/>&nbsp; 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"  width="60" height="60"/>&nbsp; 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="60" height="60"/>&nbsp;  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python"/>&nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60" alt="Jupyter Notebook" title="Jupyter Notebook"/>&nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas" title="Pandas"/>&nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy" title="NumPy"/>&nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="60" height="60" alt="Matplotlib" title="Matplotlib"/>&nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="60" height="60" alt="Plotly" title="Plotly"/>&nbsp;  
   <br><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" height="60"/>&nbsp; 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" height="60"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="60" height="60"/>&nbsp; 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="60" height="60"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" title="MySQL"/>&nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="60" height="60" alt="SQLite" title="SQLite"/>&nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" title="MongoDB"/>&nbsp;
   <br><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="60" height="60"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60"/>&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="60" height="60"/>&nbsp;
-    <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/ee0ee5b9-3d5c-44d6-b73a-2024d02fe4ba" />&nbsp;
-
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" title="VS Code"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="60" height="60" alt="PyCharm" title="PyCharm"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" alt="Git" title="Git"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="60" height="60" alt="FastAPI" title="FastAPI"/>&nbsp;
+    <img src="https://github.com/user-attachments/assets/ee0ee5b9-3d5c-44d6-b73a-2024d02fe4ba" width="60" height="60" alt="Pydantic" title="Pydantic"/>&nbsp;
 <br><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="60" height="60"/>&nbsp;
-
-          
-
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60" alt="Scikit-Learn" title="Scikit-Learn"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="60" height="60" alt="PyTorch" title="PyTorch"/>&nbsp;   
 </div>
+
 <div align="center">
         <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=346beb&height=70&section=footer"/>
     </div>
