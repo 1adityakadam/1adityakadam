@@ -79,8 +79,8 @@
 
 <table align="center">
   <tr>
+      <td align="center"><a href="https://github.com/1adityakadam/medical_insurance_cost_prediction_advance_ml"><img src="https://img.shields.io/badge/Medical%20Insurance%20Cost%20Prediction-2F855A?style=for-the-badge&logo=github&logoColor=white"></a></td>
     <td align="center"><a href="https://github.com/1adityakadam/Content-Based-Movie-Recommender-System"><img src="https://img.shields.io/badge/Movie%20Recommender-0A66C2?style=for-the-badge&logo=github&logoColor=white"></a></td>
-    <td align="center"><a href="https://github.com/1adityakadam/Predicting-Air-quality-index-using-LSTM"><img src="https://img.shields.io/badge/AQI%20Prediction%20LSTM-2F855A?style=for-the-badge&logo=github&logoColor=white"></a></td>
     <td align="center"><a href="https://github.com/1adityakadam/Tweet-Classification-using-NLP-Techniques"><img src="https://img.shields.io/badge/Tweet%20Classification-9B2C2C?style=for-the-badge&logo=github&logoColor=white"></a></td>
   </tr>
   <tr>
