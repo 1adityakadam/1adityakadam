@@ -30,8 +30,8 @@
 
   <tr>
     <td align="center"><a href="https://github.com/1adityakadam/Indygo_OTP_analysis"><img src="https://img.shields.io/badge/Indygo%20OTP%20Analysis-DC2626?style=for-the-badge&logo=github&logoColor=white"></a></td>
-    <td align="center"></td>
     <td align="center"><a href="https://github.com/1adityakadam/Rock-Classification-Using-Machine-Learning"><img src="https://img.shields.io/badge/Rock%20Classification-065F46?style=for-the-badge&logo=github&logoColor=white"></a></td>
+     <td align="center"><a href=https://github.com/1adityakadam/ML_Cheatcode_Style_Guide"><img src="https://img.shields.io/badge/GTA_Style_ML_guide-3182CE?style=for-the-badge&logo=github&logoColor=white"></a></td>
     
   </tr>
 </table>
