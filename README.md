@@ -16,7 +16,7 @@ A blog writer that checks its own sources. It plans the outline, researches each
 Works out whether a loan applicant is likely to default. Trained with XGBoost, explained with SHAP, tracked in MLflow and served through a FastAPI app. 94% accuracy and 98% precision.
 `XGBoost` `SHAP` `MLflow` `FastAPI`
 
-**4. Carnegie Classifications Explorer** · [Code](https://github.com/1adityakadam/Carnegie-classifications-ancestry-grid) · [Live demo](https://cchie-classification-history.onrender.com)
+**4. Carnegie Classifications Explorer** · [Code](https://github.com/1adityakadam/Carnegie-classifications-ancestry-grid) · [Live demo](https://vborden.pages.iu.edu/CCIHE/)
 Follows any US college or university back through its history using Carnegie classification data from 1973 to 2021.
 `Dash` `Pandas` `Python`
 
