@@ -5,26 +5,32 @@ I build machine learning, AI agent and data analytics projects. Below are the on
 ## Featured work
 
 **1. Multi-Agent Research System** · [Code](https://github.com/1adityakadam/Multi-Agent-Research-System-using-LangChain-Tavily-OpenAI)
+
 Four AI agents that work like a small research team. One searches, one reads the pages, one writes the draft and one critiques it, so you get a scored report instead of a chatbot answer.
 `LangChain` `GPT-4o-mini` `Tavily` `Streamlit`
 
 **2. Research-Grounded Blog Agent** · [Code](https://github.com/1adityakadam/Research-Grounded-Blog-Agent-using-LangGraph-Tavily-Gemini)
+
 A blog writer that checks its own sources. It plans the outline, researches each section with Tavily, writes the sections in parallel with citations, and adds its own images.
 `LangGraph` `Gemini` `Tavily` `Streamlit`
 
 **3. Credit Risk Assessment** · [Code](https://github.com/1adityakadam/Credit-Risk-Assessment-using-XGBoost-SHAP-MLFlow) · [Live demo](https://cardloans.onrender.com/)
+
 Works out whether a loan applicant is likely to default. Trained with XGBoost, explained with SHAP, tracked in MLflow and served through a FastAPI app. 94% accuracy and 98% precision.
 `XGBoost` `SHAP` `MLflow` `FastAPI`
 
 **4. Carnegie Classifications Explorer** · [Code](https://github.com/1adityakadam/Carnegie-classifications-ancestry-grid) · [Live demo](https://vborden.pages.iu.edu/CCIHE/)
+
 Follows any US college or university back through its history using Carnegie classification data from 1973 to 2021.
 `Dash` `Pandas` `Python`
 
 **5. IndyGo On-Time Performance** · [Code](https://github.com/1adityakadam/Indygo_OTP_analysis)
+
 A Power BI dashboard showing how often IndyGo buses run on time, split by time of day, route type and individual routes.
 `Power BI` `DAX` `Python`
 
 **6. Uber Data Analytics** · [Code](https://github.com/1adityakadam/Uber_data_analytics)
+
 Took NYC taxi trip data, moved it through BigQuery and Mage, and put the results in Looker Studio so the numbers are easy to read.
 `BigQuery` `Mage` `Looker Studio`
 
